@@ -1,0 +1,34 @@
+segment_sources:
+  P58C09288:
+    type: origin_type
+    relation: translation
+    language: en
+  P32A35A9A:
+    type: origin_type
+    relation: translation
+    language: de
+  P9F852721:
+    type: origin_type
+    relation: translation
+    language: es
+  PF4FF083C:
+    type: origin_type
+    relation: translation
+    language: fr
+  P8871CF91:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  07ded4122ed84f2fb8b3859ff1178c4e:
+    P58C09288: 6dc68f2620e740e5be25ad0c8ec895f3
+    P32A35A9A: 53e443aa64464ad781108477ea9b1211
+    P9F852721: ad5ff4f1eadd41f99df9037c0b5ea77f
+    PF4FF083C: 969d24dd00e7446eadeb25784efb427c
+    P8871CF91: 638d564be98d4c06a391b8d723cfa897
+  781caa65ac9747d096d13b9b15914080:
+    P58C09288: c8ea5dcf60ed4cfabe774653ac59455f
+    P32A35A9A: f42caf820e8b42d6885a50c6d27db92b
+    P9F852721: f55cf6a10f474410b46b237fcd6fcb40
+    PF4FF083C: 7c883794348f4a94aa06ef046fe0b916
+    P8871CF91: a74bcc0f929f445bb06db30c5cfe784c
